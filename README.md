@@ -21,7 +21,7 @@ A full-stack MERN Tours & Travel booking web app that simplifies trip planning, 
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/akshay-20/TravelWorld.git
+git clone https://github.com/22bcs030/Tours-And-Travels
 cd TravelWorld
 yarn
 yarn serve

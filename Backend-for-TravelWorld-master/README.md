@@ -33,7 +33,7 @@ A Fullstack Tours & Travels Web App Using MERN Stack 💫
 To Setup this project run
 
 ```bash
-git clone <https://github.com/shuence/Backend-for-TravelWorld>
+git clone https://github.com/22bcs030/Tours-And-Travels
 cd Backend-for-TravelWorld
 yarn
 yarn dev
